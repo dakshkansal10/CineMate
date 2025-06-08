@@ -18,26 +18,6 @@ This project is a content-based movie recommendation system built using Python a
   - `setup.py`: Setup file to install the package.
   - `README.md`: Project documentation file.
 
-## Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/dakshkansal10/CineMate.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd movie-recommender-system
-   ```
-   
-## Usage
-1. Run the Streamlit app:
-   ```bash
-   streamlit run src/app.py
-   ```
-2. In the app:
-   - Select a movie from the dropdown menu.
-   - Click **Show Recommendation** to see the top 5 recommended movies.
-
-
 ## Dependencies
 - **Python**: Ensure you have Python 3.10 or above.
 - **Streamlit**: For creating the interactive web app.
